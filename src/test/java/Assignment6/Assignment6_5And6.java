@@ -8,7 +8,7 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-public class Assingment6_5_6 {
+public class Assignment6_5And6 {
     WebDriver chromeDriver = new ChromeDriver();
 
     //Launch browser in Before Class / TestFixute Setup
@@ -41,7 +41,7 @@ public class Assingment6_5_6 {
 
     //Make sure to close the browser after completion of three cases.
     @AfterClass
-    public void closeBroser(){
+    public void closeBrowser(){
         chromeDriver.quit();
     }
 

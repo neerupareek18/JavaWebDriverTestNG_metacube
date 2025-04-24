@@ -2,9 +2,7 @@ package Assignment6;
 
 import org.testng.annotations.Test;
 
-import java.util.Scanner;
-
-public class Assingment6_1 {
+public class Assignment6_1 {
 
     @Test
     public void notEqualNumbers(){
