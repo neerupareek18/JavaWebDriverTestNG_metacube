@@ -4,18 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7bc48ce-d9d6-4228-870d-0071885866c3" name="Changes" comment="" />
+    <list default="true" id="e7bc48ce-d9d6-4228-870d-0071885866c3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Assignment6/Assignment6_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Assignment6/Assignmnet6_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Assignment6/Assingment6_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Assignment6/Assingment6_5_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Assignment7/Assignment7_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Assignment7/Assignment7_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Assignment7/Assignment7_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Assignment7/Assignment7_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Assignment7/Assignment7_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Assignment7/Assignment7_3.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "neerupareek18"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/neerupareek18/JavaWebDriverTestNG_metacube.git",
+    "accountId": "1d21fd9a-b671-42b6-8c4a-6d1c6b3fb2aa"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2wAnkdb99ajw4fTLvpCab2k0UCW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -26,10 +55,102 @@
   "keyToString": {
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.Assignment6_3.isPalindrome.executor": "Run",
+    "TestNG.Assignment7_1.htmlWebAppDev.executor": "Run",
+    "TestNG.Assignmnet6_2.greaterThanNumbers.executor": "Run",
+    "TestNG.Assignmnet6_2.is3greaterThan5.executor": "Run",
+    "TestNG.Assingment6_1.notEqualNumbers.executor": "Run",
+    "TestNG.C:/Users/Neeru/IdeaProjects/untitled/Assingment6_4_1.xml.executor": "Run",
+    "TestNG.C:/Users/Neeru/IdeaProjects/untitled/testng.xml.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="TestNG.C:/Users/Neeru/IdeaProjects/untitled/Assingment6_4_1.xml">
+    <configuration name="Assignment6_3.isPalindrome" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaWebDriverTestNG_Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Assignment6" />
+      <option name="MAIN_CLASS_NAME" value="Assignment6.Assignment6_3" />
+      <option name="METHOD_NAME" value="isPalindrome" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Assignmnet6_2.greaterThanNumbers" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaWebDriverTestNG_Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Assignment6" />
+      <option name="MAIN_CLASS_NAME" value="Assignment6.Assignmnet6_2" />
+      <option name="METHOD_NAME" value="greaterThanNumbers" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Assignmnet6_2.is3greaterThan5" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaWebDriverTestNG_Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Assignment6" />
+      <option name="MAIN_CLASS_NAME" value="Assignment6.Assignmnet6_2" />
+      <option name="METHOD_NAME" value="is3greaterThan5" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Neeru/IdeaProjects/untitled/Assingment6_4_1.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaWebDriverTestNG_Assignments" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Assingment6_4_1.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Neeru/IdeaProjects/untitled/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaWebDriverTestNG_Assignments" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Neeru/IdeaProjects/untitled/Assingment6_4_1.xml" />
+        <item itemvalue="TestNG.Assignment6_3.isPalindrome" />
+        <item itemvalue="TestNG.C:/Users/Neeru/IdeaProjects/untitled/testng.xml" />
+        <item itemvalue="TestNG.Assignmnet6_2.is3greaterThan5" />
+        <item itemvalue="TestNG.Assignmnet6_2.greaterThanNumbers" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
