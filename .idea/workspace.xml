@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7bc48ce-d9d6-4228-870d-0071885866c3" name="Changes" comment="Assignment 1 to 4">
+    <list default="true" id="e7bc48ce-d9d6-4228-870d-0071885866c3" name="Changes" comment="Removed Error">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Assignment1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Assignment1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Assignment2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Assignment2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,7 @@
   "keyToString": {
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.Assignment1.executor": "Run",
     "TestNG.Assignment1.testCase.executor": "Run",
     "TestNG.Assignment2.launchDiffBrowsers.executor": "Run",
     "TestNG.Assignment3_1.launchSiteAndNavigateBack.executor": "Run",
@@ -70,7 +71,18 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Assignment1.testCase">
+  <component name="RunManager" selected="TestNG.Assignment1">
+    <configuration name="Assignment1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaWebDriverTestNG_Assignments" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Assignment1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Assignment1.testCase" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaWebDriverTestNG_Assignments" />
       <option name="PACKAGE_NAME" value="" />
@@ -130,31 +142,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Assignment5_3.top10GainersAndLosers" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaWebDriverTestNG_Assignments" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Assignment5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Assignment5" />
-      <option name="MAIN_CLASS_NAME" value="Assignment5.Assignment5_3" />
-      <option name="METHOD_NAME" value="top10GainersAndLosers" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Assignment1" />
         <item itemvalue="TestNG.Assignment1.testCase" />
         <item itemvalue="TestNG.Assignment2.launchDiffBrowsers" />
         <item itemvalue="TestNG.Assignment3_1.launchSiteAndNavigateBack" />
         <item itemvalue="TestNG.Assignment5_3" />
-        <item itemvalue="TestNG.Assignment5_3.top10GainersAndLosers" />
       </list>
     </recent_temporary>
   </component>
@@ -191,12 +185,21 @@
       <option name="project" value="LOCAL" />
       <updated>1745567314301</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Removed Error">
+      <option name="closed" value="true" />
+      <created>1745567417491</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745567417491</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Assignment 6 and 7" />
     <MESSAGE value="Assignment 1 to 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignment 1 to 4" />
+    <MESSAGE value="Removed Error" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed Error" />
   </component>
 </project>

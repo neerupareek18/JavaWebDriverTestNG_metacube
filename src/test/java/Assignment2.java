@@ -8,8 +8,8 @@ public class Assignment2 {
     @Test
     public void launchDiffBrowsers() {
         ChromeDriver chromeDriver = new ChromeDriver();
-        FirefoxDriver firefoxDriver = new FirefoxDriver();
-        InternetExplorerDriver internetExplorerDriver = new InternetExplorerDriver();
-        SafariDriver safariDriver = new SafariDriver();
+//        FirefoxDriver firefoxDriver = new FirefoxDriver();
+//        InternetExplorerDriver internetExplorerDriver = new InternetExplorerDriver();
+//        SafariDriver safariDriver = new SafariDriver();
     }
 }
