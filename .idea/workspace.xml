@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7bc48ce-d9d6-4228-870d-0071885866c3" name="Changes" comment="Assignment 6 and 7">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Assignment1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Assignment2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Assignment3/Assignment3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Assignment3/Assignment3_234.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Assignment4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Assignment5/Assignment5_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Assignment5/Assignment5_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Assignment5/Assignment5_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Assignment6/Assingment6_5_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Assignment6/Assingment6_5_6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,18 +30,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "neerupareek18"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;neerupareek18&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/neerupareek18/JavaWebDriverTestNG_metacube.git",
-    "accountId": "1d21fd9a-b671-42b6-8c4a-6d1c6b3fb2aa"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/neerupareek18/JavaWebDriverTestNG_metacube.git&quot;,
+    &quot;accountId&quot;: &quot;1d21fd9a-b671-42b6-8c4a-6d1c6b3fb2aa&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -48,6 +55,11 @@
   "keyToString": {
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.Assignment2.launchDiffBrowsers.executor": "Run",
+    "TestNG.Assignment3_1.launchSiteAndNavigateBack.executor": "Run",
+    "TestNG.Assignment5_1.clickElement8.executor": "Run",
+    "TestNG.Assignment5_3.executor": "Run",
+    "TestNG.Assignment5_3.top10GainersAndLosers.executor": "Run",
     "TestNG.Assignment6_3.isPalindrome.executor": "Run",
     "TestNG.Assignment7_1.htmlWebAppDev.executor": "Run",
     "TestNG.Assignmnet6_2.greaterThanNumbers.executor": "Run",
@@ -59,18 +71,17 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.C:/Users/Neeru/IdeaProjects/untitled/Assingment6_4_1.xml">
-    <configuration name="Assignment6_3.isPalindrome" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Assignment2.launchDiffBrowsers">
+    <configuration name="Assignment2.launchDiffBrowsers" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaWebDriverTestNG_Assignments" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Assignment6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Assignment6" />
-      <option name="MAIN_CLASS_NAME" value="Assignment6.Assignment6_3" />
-      <option name="METHOD_NAME" value="isPalindrome" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Assignment2" />
+      <option name="METHOD_NAME" value="launchDiffBrowsers" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -78,17 +89,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Assignmnet6_2.greaterThanNumbers" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Assignment3_1.launchSiteAndNavigateBack" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaWebDriverTestNG_Assignments" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Assignment6.*" />
+          <option name="PATTERN" value="Assignment3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Assignment6" />
-      <option name="MAIN_CLASS_NAME" value="Assignment6.Assignmnet6_2" />
-      <option name="METHOD_NAME" value="greaterThanNumbers" />
+      <option name="PACKAGE_NAME" value="Assignment3" />
+      <option name="MAIN_CLASS_NAME" value="Assignment3.Assignment3_1" />
+      <option name="METHOD_NAME" value="launchSiteAndNavigateBack" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -96,17 +107,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Assignmnet6_2.is3greaterThan5" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Assignment5_1.clickElement8" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaWebDriverTestNG_Assignments" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Assignment6.*" />
+          <option name="PATTERN" value="Assignment5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Assignment6" />
-      <option name="MAIN_CLASS_NAME" value="Assignment6.Assignmnet6_2" />
-      <option name="METHOD_NAME" value="is3greaterThan5" />
+      <option name="PACKAGE_NAME" value="Assignment5" />
+      <option name="MAIN_CLASS_NAME" value="Assignment5.Assignment5_1" />
+      <option name="METHOD_NAME" value="clickElement8" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -114,20 +125,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/Neeru/IdeaProjects/untitled/Assingment6_4_1.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Assignment5_3" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaWebDriverTestNG_Assignments" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Assingment6_4_1.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Assignment5" />
+      <option name="MAIN_CLASS_NAME" value="Assignment5.Assignment5_3" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/Neeru/IdeaProjects/untitled/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Assignment5_3.top10GainersAndLosers" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaWebDriverTestNG_Assignments" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Assignment5" />
+      <option name="MAIN_CLASS_NAME" value="Assignment5.Assignment5_3" />
+      <option name="METHOD_NAME" value="top10GainersAndLosers" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -136,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/Neeru/IdeaProjects/untitled/Assingment6_4_1.xml" />
-        <item itemvalue="TestNG.Assignment6_3.isPalindrome" />
-        <item itemvalue="TestNG.C:/Users/Neeru/IdeaProjects/untitled/testng.xml" />
-        <item itemvalue="TestNG.Assignmnet6_2.is3greaterThan5" />
-        <item itemvalue="TestNG.Assignmnet6_2.greaterThanNumbers" />
+        <item itemvalue="TestNG.Assignment2.launchDiffBrowsers" />
+        <item itemvalue="TestNG.Assignment3_1.launchSiteAndNavigateBack" />
+        <item itemvalue="TestNG.Assignment5_3" />
+        <item itemvalue="TestNG.Assignment5_3.top10GainersAndLosers" />
+        <item itemvalue="TestNG.Assignment5_1.clickElement8" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745502504385</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Assignment 6 and 7">
+      <option name="closed" value="true" />
+      <created>1745502720291</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745502720291</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
